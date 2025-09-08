@@ -54,8 +54,8 @@ This section introduces essential functions and formulas in Excel and Google She
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Formula%20Excel%20Template.xlsx) 
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1_m7bzlByhPAjYNglv_Vp6eK4sQxLVAaXDRAfp1yn7iw/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1_m7bzlByhPAjYNglv_Vp6eK4sQxLVAaXDRAfp1yn7iw/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---
 
@@ -66,8 +66,8 @@ _Est. Time to Complete: (30 mins)_
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
-- [ ] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
-- [ ] Complete the hands-on activity
+- [x] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
+- [x] Complete the hands-on activity
 
 ---
 
