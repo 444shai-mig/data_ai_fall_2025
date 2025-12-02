@@ -51,7 +51,7 @@ _Est time to complete: ~2 hours_
 
 In this next series, you'll explore the difference between ETL and SQL, followed by an introduction to ETLs in Domo. We’ll dive into various ETL functions, including text, date, and numeric transformations, utility functions, and filters. You'll also learn how to combine data, apply aggregation, and use pivot functions to reshape datasets. Advanced topics like data science functions are introduced to enhance analytics capabilities. The section concludes with a wrap-up video to reinforce key concepts and prepare you to apply ETL workflows effectively.
 
-- [ ] Watch this [video series 3.1 - 3.11](https://www.youtube.com/watch?v=tuTq62KPjJ8&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=13) and mark when complete
+- [x] Watch this [video series 3.1 - 3.11](https://www.youtube.com/watch?v=tuTq62KPjJ8&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=13) and mark when complete
 
 ### Data Exploration  
 
@@ -61,7 +61,7 @@ _Est time to complete: ~30 mins_
 
 This short section focuses on data exploration in Domo. You’ll learn how to set up KPIs to track key metrics and use Domo’s tools to explore datasets efficiently. 
 
-- [ ] Watch this [video series 4.1 - 4.2](https://www.youtube.com/watch?v=UMZAUpfxTRI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=24) and mark when complete
+- [x] Watch this [video series 4.1 - 4.2](https://www.youtube.com/watch?v=UMZAUpfxTRI&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=24) and mark when complete
 
 ### Data Visualization 
 
@@ -71,7 +71,7 @@ _Est time to complete: ~3 hours_
 
 This section covers data visualization in Domo, starting with an introduction to the chart editor. You’ll learn how to create various chart types, including bar, line, area, lollipop, pie, funnel, and map visuals, along with custom charts and gauges. We’ll also explore using tables, text boxes, and filters to enhance dashboards. Advanced visualizations for data science are included, and the section wraps up with key takeaways to solidify your understanding of Domo’s visualization tools.
 
-- [ ] Watch this [video series 5.1 - 5.17](https://www.youtube.com/watch?v=Se9PnwLxE7w&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=26) and mark when complete
+- [x] Watch this [video series 5.1 - 5.17](https://www.youtube.com/watch?v=Se9PnwLxE7w&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=26) and mark when complete
 
 ### Dashboarding 
 
@@ -81,4 +81,4 @@ _Est time to complete: ~2 hours_
 
 In this section on dashboarding, you'll learn how to make visuals stand out, including a fun frittata recipe to illustrate design principles. We’ll cover how to edit and customize your dashboards, followed by a detailed walkthrough of dashboard features. The section wraps up by highlighting additional cool features to enhance functionality and user experience in Domo.
 
-- [ ] Watch this [video series 6.1 - 6.5](https://www.youtube.com/watch?v=7ig7GIqQJGQ&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=43) and mark when complete 
+- [x] Watch this [video series 6.1 - 6.5](https://www.youtube.com/watch?v=7ig7GIqQJGQ&list=PLLbgJInsMl7pZp1AdQt47jXBz1E1jT062&index=43) and mark when complete 
