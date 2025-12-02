@@ -79,8 +79,8 @@ Visualizing data is a critical skill in data analytics. This section will guide 
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---
 
@@ -94,8 +94,8 @@ n this tutorial, you'll learn how to use XLOOKUP, a powerful Excel function for 
 
 - [x] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/XLOOKUP%20Excel%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [x] Complete the hands-on activity
 
 ---- 
 
@@ -109,8 +109,8 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 
 - [x] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Google Sheets users: Download the .xls file above and upload to Google Sheets 
+- [x] Complete the hands-on activity
 
 ---
 
@@ -118,7 +118,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 
 _Est. Time to Complete: (5 hours)_
 
-- [ ] Complete Assignment 1 -> Found in `module_2` -> `assignment_1.md` 
+- [x] Complete Assignment 1 -> Found in `module_2` -> `assignment_1.md` 
 
 * Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
   * Skills needed:
